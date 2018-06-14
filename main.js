@@ -24,3 +24,16 @@ function show(){
 }
 
 // Features #1
+var action = document.querySelector('.blacksquareaction');
+var trigger = document.querySelector('.blacksquare');
+
+trigger.addEventListener('click', function(){
+  if (action.ClassList.contains(".blacksquareshow")) {
+      action.classList.remove = ".blacksquareshow"
+      action.classList.add = ".blacksquarehide"
+  }
+  if (action.ClassList.contains(".blacksquarehide")) {
+      action.classList.remove = ".blacksquarehide"
+      action.classList.add = ".blacksquareshow"
+  }
+});

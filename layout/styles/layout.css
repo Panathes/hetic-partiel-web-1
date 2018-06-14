@@ -1217,6 +1217,14 @@ table a,
 	width: 16px;
 }
 
+.blacksquareshow{
+	display: block;
+}
+
+.blacksquarehide{
+	display: none;
+}
+
 .headernav-hide{
 	display: none;
 }
@@ -1294,7 +1302,7 @@ table a,
 }
 
 @media screen and (max-width:750px) {
-	
+
 	.imgl,
 	.imgr {
 		display: inline-block;
