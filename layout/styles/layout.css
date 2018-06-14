@@ -833,6 +833,9 @@ td {
 }
 
 
+/* testing things */
+
+
 /* ------------------------------------------------------------------------------------------------------------ */
 
 
@@ -1206,6 +1209,22 @@ table a,
 	background-color: inherit;
 }
 
+/* Partiel add things */
+
+.blacksquare{
+	background-color: black;
+	height: 16px;
+	width: 16px;
+}
+
+.headernav-hide{
+	display: none;
+}
+
+.headernav-show{
+	display: block;
+}
+
 
 /* ------------------------------------------------------------------------------------------------------------ */
 
@@ -1275,6 +1294,7 @@ table a,
 }
 
 @media screen and (max-width:750px) {
+	
 	.imgl,
 	.imgr {
 		display: inline-block;
