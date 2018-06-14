@@ -993,6 +993,41 @@ textarea:focus,
 	color: #CF9C67;
 }
 
+.group a,
+.group>li>ul li:hover i {
+	color: #CF9C67;
+}
+
+.group a:hover,
+.group>li>ul li i {
+	color: #000000;
+}
+
+.first a,
+.first>li>ul li:hover i {
+	color: #CF9C67;
+}
+
+.first a:hover,
+.first>li>ul li i {
+	color: #000000;
+}
+
+.linklist a,
+.linklist>li>ul li:hover i {
+	color: #CF9C67;
+}
+
+.linklist a:hover,
+.linklist>li>ul li i {
+	color: #000000;
+}
+
+
+
+
+
+
 
 /* Click to Action */
 
@@ -1297,7 +1332,8 @@ table a,
 
 /* Other --------------------------------------------------------------------------------------------------------------- */
 
-@media screen and (max-width:650px) {
+@media screen and (max-width:650px) {a
+
 	.scrollable {
 		display: block;
 		width: 100%;

@@ -1,11 +1,3 @@
-git add.
-git commit -m "blablabla"
-git push origin master
-
-
-Issue
-#10
-
 # Partiel WEB 1 - P2020
 
 **Autorisation du téléphone pour le partage de connexion**
