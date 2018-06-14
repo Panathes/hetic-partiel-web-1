@@ -1,3 +1,11 @@
+git add.
+git commit -m "blablabla"
+git push origin master
+
+
+Issue
+#10
+
 # Partiel WEB 1 - P2020
 
 **Autorisation du téléphone pour le partage de connexion**
@@ -32,6 +40,6 @@ Gérez votre temps comme vous le voulez le but étant de fixer le plus grand nom
 ## Malus
 * 1 minute de retard pour le rendu = -1 point sur la note finale...
 * Non-respect des consignes = -1 point
-* Utilisation de framework, librairies tierces, jQuery = -10 points 
+* Utilisation de framework, librairies tierces, jQuery = -10 points
 * Le label Need Help est autorisé uniquement sur les FEATURES. -1 pour celui qui demande, +0.3 pour celui qui aide
 * -2 si le JS est dans votre HTML. Merci de créer un fichier `main.js` dans le quel vous aurez un code rangé, commenté, structuré.
